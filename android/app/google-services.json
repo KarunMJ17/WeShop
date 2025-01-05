@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "836481526128",
+    "project_id": "weshop-9bd1e",
+    "storage_bucket": "weshop-9bd1e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836481526128:android:9c91091939151311e4c7b5",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpB4SB2Hbyyjr5uf7N07Cn33H47J_U1UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836481526128:android:c571737fa319d94ee4c7b5",
+        "android_client_info": {
+          "package_name": "com.example.we_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpB4SB2Hbyyjr5uf7N07Cn33H47J_U1UM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
